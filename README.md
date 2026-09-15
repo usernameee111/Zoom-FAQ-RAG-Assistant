@@ -1,4 +1,3 @@
-```markdown
 # 💬 Zoom FAQ RAG Assistant
 
 ## 👩‍💻 Done by
@@ -121,5 +120,3 @@ The pipeline was evaluated on 10 diverse questions. Below is a sample of the res
 ![Grounded Answer Demo](screenshots/answer1.png)
 
 ![Anti-Hallucination Demo](screenshots/answer2.png)
-
-```
