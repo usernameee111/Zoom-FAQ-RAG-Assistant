@@ -117,6 +117,6 @@ The pipeline was evaluated on 10 diverse questions. Below is a sample of the res
 
 ## 📸 Application Screenshots
 
-![Grounded Answer Demo](screenshots/answer1.png)
+![Grounded Answer Demo](screenshots/answer1.jpg)
 
-![Anti-Hallucination Demo](screenshots/answer2.png)
+![Anti-Hallucination Demo](screenshots/answer2.jpg)
