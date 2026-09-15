@@ -1,0 +1,17 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Environment variables (NEVER COMMIT .env)
+.env
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

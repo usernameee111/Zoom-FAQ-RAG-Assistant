@@ -1,0 +1,7 @@
+{
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "embedding_model": "all-MiniLM-L6-v2",
+    "vector_store_path": "./data/vector_store",
+    "llm_model": "llama3.2:1b"
+}
